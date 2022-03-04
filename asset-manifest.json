@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/first-react-animation/static/css/main.eeab259c.css",
+    "main.js": "/first-react-animation/static/js/main.0d441924.js",
+    "static/js/787.fdd7599b.chunk.js": "/first-react-animation/static/js/787.fdd7599b.chunk.js",
+    "static/media/boxTexture3.jpg": "/first-react-animation/static/media/boxTexture3.f1785f7314afef73bbc3.jpg",
+    "index.html": "/first-react-animation/index.html",
+    "main.eeab259c.css.map": "/first-react-animation/static/css/main.eeab259c.css.map",
+    "main.0d441924.js.map": "/first-react-animation/static/js/main.0d441924.js.map",
+    "787.fdd7599b.chunk.js.map": "/first-react-animation/static/js/787.fdd7599b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeab259c.css",
+    "static/js/main.0d441924.js"
+  ]
+}
